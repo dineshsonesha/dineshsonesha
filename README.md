@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Dinesh Sonesha 👋
 
-<!--
-**dineshsonesha/dineshsonesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.E. Information Technology student and Full Stack Developer passionate about building real-world web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java, Spring Boot
+- JavaScript, TypeScript
+- React.js, Next.js
+- Node.js, Express.js
+- MySQL, MongoDB
+- Docker, Kubernetes
+- AWS, GitHub Actions
+
+## 💻 What I Build
+
+I have built projects like:
+
+- E-commerce platforms
+- Freelance marketplace systems
+- Admin dashboards
+- Authentication-based applications
+- File upload features
+- AI-powered apps
+
+## 📌 Currently Learning
+
+- Scalable backend systems
+- DevOps workflows
+- Cloud deployment
+- Production-level full-stack development
+
+## 🎯 Looking For
+
+I’m open to full-stack development internship opportunities where I can learn, contribute, and grow as a developer.
