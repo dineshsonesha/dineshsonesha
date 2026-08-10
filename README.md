@@ -35,7 +35,7 @@
 - 🧩 Interested in full-stack development, backend engineering, cloud, DevOps and secure application development
 - 💬 Ask me about **Full Stack Development**
 - 📫 Reach me at **dineshsonesha@gmail.com**
-- 🌐 Portfolio: **[dinesh-portfolio-mu.vercel.app](https://dinesh-portfolio-mu.vercel.app/)**
+- 🌐 Portfolio: **[dineshsonesha.vercel.app](https://dineshsonesha.vercel.app/)**
 
 > I enjoy turning ideas into working products — from frontend interfaces and REST APIs to databases, containers and cloud deployments.
 
