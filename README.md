@@ -1,30 +1,228 @@
-<h1 align="center">Hi 👋, I'm Dinesh Sonesha</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshsonesha&label=Profile%20views&color=0e75b6&style=flat" alt="dineshsonesha" /> </p>
+# 👋 Hi, I'm Dinesh Sonesha
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshsonesha" alt="dineshsonesha" /></a> </p>
+### Full Stack Developer • B.E. IT Student • Builder
 
-- 🔭 I’m currently working on [Freelance Hub](https://github.com/dineshsonesha/freelencehub.git)
+<a href="https://github.com/dineshsonesha">
+  <img src="https://img.shields.io/badge/GitHub-dineshsonesha-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/dineshsonesha">
+  <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Sonesha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://dinesh-portfolio-mu.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
-- 🌱 I’m currently learning **CyberSecuriy**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://dineshsonesha.vercel.app/](https://dineshsonesha.vercel.app/)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Node.js+%7C+Next.js+%7C+MongoDB;Docker+%7C+AWS+%7C+Kubernetes;Learning+Cybersecurity+%F0%9F%94%90" alt="Typing SVG"/>
 
-- 💬 Ask me about **Full Stack Dev**
+<br/>
 
-- 📫 How to reach me **dineshsonesha@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=dineshsonesha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dineshsonesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshsonesha" height="30" width="40" /></a>
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.E. Information Technology student
+- 💻 Full Stack Developer focused on building practical, real-world applications
+- 🔭 Currently working on **Freelance Hub**
+- 🌱 Currently learning **Cybersecurity**
+- 🧩 Interested in full-stack development, backend engineering, cloud, DevOps and secure application development
+- 💬 Ask me about **Full Stack Development**
+- 📫 Reach me at **dineshsonesha@gmail.com**
+- 🌐 Portfolio: **[dinesh-portfolio-mu.vercel.app](https://dinesh-portfolio-mu.vercel.app/)**
+
+> I enjoy turning ideas into working products — from frontend interfaces and REST APIs to databases, containers and cloud deployments.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🎨 Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshsonesha&show_icons=true&locale=en&layout=compact" alt="dineshsonesha" /></p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="42" height="42" alt="React Native"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42" height="42" alt="Next.js"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind CSS"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshsonesha&show_icons=true&locale=en" alt="dineshsonesha" /></p>
+### ⚙️ Backend & APIs
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsonesha&" alt="dineshsonesha" /></p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="42" height="42" alt="NestJS"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42" height="42" alt="Spring"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman"/>
+</p>
+
+### 🗄️ Databases & Data
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="42" height="42" alt="Redis"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
+</p>
+
+### ☁️ DevOps, Cloud & Infrastructure
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="42" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="52" height="42" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="42" height="42" alt="Kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="42" height="42" alt="Jenkins"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" height="42" alt="Nginx"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="42" height="42" alt="Bash"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" alt="Git"/>
+</p>
+
+### 📊 Data Science / ML
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="42" alt="Scikit-learn"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" alt="Seaborn"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/dineshsonesha/dinesh-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=dinesh-portfolio&hide_border=true" alt="dinesh-portfolio"/>
+  </a>
+  <a href="https://github.com/dineshsonesha/JobReadify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=JobReadify&hide_border=true" alt="JobReadify"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dineshsonesha/Train_Booking_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=Train_Booking_System&hide_border=true" alt="Train Booking System"/>
+  </a>
+  <a href="https://github.com/dineshsonesha/WavyCloths-Frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=WavyCloths-Frontend&hide_border=true" alt="WavyCloths Frontend"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dineshsonesha/SpendFLow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=SpendFLow&hide_border=true" alt="SpendFLow"/>
+  </a>
+  <a href="https://github.com/dineshsonesha/GemixAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=GemixAI&hide_border=true" alt="GemixAI"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dineshsonesha?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View all repositories"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+### 📊 Overall Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dineshsonesha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Dinesh's GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsonesha&layout=compact&langs_count=8&hide_border=true" alt="Top languages"/>
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dineshsonesha&hide_border=true" alt="Dinesh's GitHub streak"/>
+</p>
+
+### 📅 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshsonesha&theme=github-compact&hide_border=true" alt="Dinesh's GitHub activity graph"/>
+  </a>
+</p>
+
+### 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dineshsonesha&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies"/>
+  </a>
+</p>
+
+---
+
+## 🧠 What I'm Focused On
+
+```text
+Full Stack Development   ████████████████████  Building
+Backend Engineering      ██████████████████░░  Improving
+Cloud & DevOps           ████████████████░░░░  Practicing
+Cybersecurity            ██████████████░░░░░░  Learning
+Open Source              ████████████░░░░░░░░  Exploring
+```
+
+---
+
+## 📌 Current Goals
+
+- 🚀 Build and deploy more production-style full-stack applications
+- ☁️ Strengthen cloud and DevOps skills
+- 🔐 Continue learning cybersecurity
+- 🧪 Improve API design, testing and software quality
+- 🌍 Build projects that solve practical problems
+- 🤝 Keep learning through projects and collaboration
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/dineshsonesha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dineshsonesha">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dineshsonesha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://dinesh-portfolio-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 “Build. Break. Learn. Improve. Repeat.”
+
+⭐ If you find something useful here, feel free to explore my repositories.
+
+</div>
