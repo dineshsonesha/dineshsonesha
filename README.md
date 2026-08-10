@@ -110,76 +110,113 @@
 ## ⭐ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/dineshsonesha/dinesh-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=dinesh-portfolio&hide_border=true" alt="dinesh-portfolio"/>
-  </a>
-  <a href="https://github.com/dineshsonesha/JobReadify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=JobReadify&hide_border=true" alt="JobReadify"/>
-  </a>
+
+<a href="https://github.com/dineshsonesha/dinesh-portfolio">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/dineshsonesha/JobReadify">
+  <img src="https://img.shields.io/badge/💼%20JobReadify-View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/dineshsonesha/Train_Booking_System">
+  <img src="https://img.shields.io/badge/🚆%20Train%20Booking-View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/dineshsonesha/WavyCloths-Frontend">
+  <img src="https://img.shields.io/badge/👕%20WavyCloths-View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/dineshsonesha/SpendFLow">
+  <img src="https://img.shields.io/badge/💰%20SpendFlow-View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/dineshsonesha/GemixAI">
+  <img src="https://img.shields.io/badge/🤖%20GemixAI-View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/dineshsonesha/Train_Booking_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=Train_Booking_System&hide_border=true" alt="Train Booking System"/>
-  </a>
-  <a href="https://github.com/dineshsonesha/WavyCloths-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=WavyCloths-Frontend&hide_border=true" alt="WavyCloths Frontend"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/dineshsonesha/SpendFLow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=SpendFLow&hide_border=true" alt="SpendFLow"/>
-  </a>
-  <a href="https://github.com/dineshsonesha/GemixAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshsonesha&repo=GemixAI&hide_border=true" alt="GemixAI"/>
-  </a>
-</p>
+<a href="https://github.com/dineshsonesha?tab=repositories">
+  <img src="https://img.shields.io/badge/📂%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/dineshsonesha?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View all repositories"/>
-  </a>
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-### 📊 Overall Stats
+### 📈 GitHub Overview
 
 <p align="center">
-  <a href="https://github.com/dineshsonesha">
-    <img
-      src="https://img.shields.io/github/followers/dineshsonesha?label=Followers&style=for-the-badge"
-      alt="GitHub Followers"
-    />
-  </a>
+
+<a href="https://github.com/dineshsonesha">
+  <img
+    src="https://img.shields.io/github/followers/dineshsonesha?style=for-the-badge&logo=github&label=Followers"
+    alt="GitHub Followers"
+  />
+</a>
+
+<a href="https://github.com/dineshsonesha?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Repositories-View%20Repositories-181717?style=for-the-badge&logo=github"
+    alt="Repositories"
+  />
+</a>
+
+<a href="https://github.com/dineshsonesha?tab=stars">
+  <img
+    src="https://img.shields.io/badge/Stars-View%20Stars-yellow?style=for-the-badge&logo=github"
+    alt="GitHub Stars"
+  />
+</a>
+
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dineshsonesha&hide_border=true" alt="Dinesh's GitHub streak"/>
+
+<a href="https://github.com/dineshsonesha">
+  <img
+    src="https://streak-stats.demolab.com?user=dineshsonesha&hide_border=true"
+    alt="Dinesh Sonesha GitHub Streak"
+  />
+</a>
+
 </p>
 
-### 📅 Contribution Activity Graph
+### 📅 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshsonesha&theme=github-compact&hide_border=true" alt="Dinesh's GitHub activity graph"/>
-  </a>
+
+<a href="https://github.com/dineshsonesha">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=dineshsonesha&theme=github-compact&hide_border=true&custom_title=Dinesh%20Sonesha's%20Contribution%20Graph"
+  alt="Dinesh Sonesha Contribution Graph"
+/>
+
+</a>
+
 </p>
 
 ### 🏆 GitHub Profile Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://img.shields.io/badge/Stars-View%20Stars-yellow?style=for-the-badge&logo=github"
-      alt="GitHub Stars"
-    />
-  </a>
+
+<a href="https://github.com/dineshsonesha">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=dineshsonesha&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
+  alt="GitHub Profile Trophies"
+/>
+
+</a>
+
 </p>
 
 ---
