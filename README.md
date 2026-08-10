@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/dineshsonesha">
   <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Sonesha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://dinesh-portfolio-mu.vercel.app/">
+<a href="https://dineshsonesha.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -234,7 +234,7 @@ Open Source              ████████████░░░░░░�
   <a href="mailto:dineshsonesha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://dinesh-portfolio-mu.vercel.app/">
+  <a href="https://dineshsonesha.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
