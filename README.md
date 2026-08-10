@@ -148,7 +148,14 @@
 
 ### 📊 Overall Stats
 
-(https://github-readme-stats.vercel.app/api?username=dineshsonesha)](https://github.com/dineshsonesha/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/dineshsonesha">
+    <img
+      src="https://img.shields.io/github/followers/dineshsonesha?label=Followers&style=for-the-badge"
+      alt="GitHub Followers"
+    />
+  </a>
+</p>
 
 ### 🔥 Contribution Streak
 
