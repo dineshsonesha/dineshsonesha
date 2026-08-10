@@ -148,10 +148,7 @@
 
 ### 📊 Overall Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dineshsonesha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Dinesh's GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsonesha&layout=compact&langs_count=8&hide_border=true" alt="Top languages"/>
-</p>
+(https://github-readme-stats.vercel.app/api?username=dineshsonesha)](https://github.com/dineshsonesha/github-readme-stats)
 
 ### 🔥 Contribution Streak
 
