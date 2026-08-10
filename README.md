@@ -204,21 +204,6 @@
 
 </p>
 
-### 🏆 GitHub Profile Trophies
-
-<p align="center">
-
-<a href="https://github.com/dineshsonesha">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=dineshsonesha&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
-  alt="GitHub Profile Trophies"
-/>
-
-</a>
-
-</p>
-
 ---
 
 ## 🧠 What I'm Focused On
