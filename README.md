@@ -188,8 +188,6 @@
 
 </p>
 
-### 📅 Contribution Activity
-
 <p align="center">
 
 <a href="https://github.com/dineshsonesha">
