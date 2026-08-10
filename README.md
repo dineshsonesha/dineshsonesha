@@ -148,8 +148,6 @@
 
 ## 📊 GitHub Analytics
 
-### 📈 GitHub Overview
-
 <p align="center">
 
 <a href="https://github.com/dineshsonesha">
@@ -174,8 +172,6 @@
 </a>
 
 </p>
-
-### 🔥 Contribution Streak
 
 <p align="center">
 
