@@ -43,41 +43,32 @@
 
 ## 🛠️ Tech Stack
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" style="width:100%; border-collapse:collapse; border:none;">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="width:50%; border:none;">
 
 ### 💻 Languages
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
 </p>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="width:50%; border:none;">
 
 ### 🎨 Frontend
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"/>
-&nbsp;
 <img src="https://reactnative.dev/img/header_logo.svg" width="42" height="42" alt="React Native"/>
-&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42" height="42" alt="Next.js"/>
-&nbsp;
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind CSS"/>
 </p>
 
@@ -85,35 +76,28 @@
 </tr>
 
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="width:50%; border:none;">
 
 ### ⚙️ Backend & APIs
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" alt="Express"/>
-&nbsp;
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42" height="42" alt="Spring Boot"/>
-&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman"/>
 </p>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="width:50%; border:none;">
 
 ### 🗄️ Databases
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="42" height="42" alt="Redis"/>
-&nbsp;
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase"/>
 </p>
 
@@ -121,45 +105,37 @@
 </tr>
 
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="width:50%; border:none;">
 
 ### ☁️ DevOps & Cloud
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="42" alt="AWS"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="52" height="42" alt="Docker"/>
-&nbsp;
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="42" height="42" alt="Kubernetes"/>
-&nbsp;
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="42" height="42" alt="Jenkins"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" height="42" alt="Nginx"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
-&nbsp;
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="42" height="42" alt="Bash"/>
-&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
 </p>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="width:50%; border:none;">
 
 ### 📊 Data Science / ML
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
-&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="42" alt="Scikit-learn"/>
-&nbsp;
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" alt="Seaborn"/>
 </p>
 
 </td>
 </tr>
 </table>
+
 
 ---
 
