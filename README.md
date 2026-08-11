@@ -45,7 +45,7 @@
 
 <table width="100%" style="width:100%; border-collapse:collapse; border:none;">
 <tr>
-<td width="50%" align="center" valign="top" style="width:50%; border:none;">
+<td width="60%" align="center" valign="top" style="width:60%; border:none;">
 
 ### 💻 Languages
 
@@ -89,7 +89,7 @@
 
 </td>
 
-<td width="50%" align="center" valign="top" style="width:50%; border:none;">
+<td width="60%" align="center" valign="top" style="width:60%; border:none;">
 
 ### 🗄️ Databases
 
