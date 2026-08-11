@@ -45,7 +45,7 @@
 
 <table align="center">
 <tr>
-<td width="100%" valign="top">
+<td width="60%" valign="top">
 
 ### 💻 Languages
 
@@ -81,7 +81,7 @@
 
 </td>
 
-<td width="100%" valign="top">
+<td width="60%" valign="top">
 
 ### 🎨 Frontend
 
